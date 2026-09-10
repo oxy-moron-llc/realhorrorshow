@@ -51,7 +51,7 @@ function ComingSoon() {
         </section>
       </main>
 
-      <footer className="launch-footer"><div className="launch-footer__art"><img src="/fly-study.png" alt="Graphite fly study" /></div><div className="launch-footer__content"><a className="launch-brand" href="#top"><span>RH</span> realhorror.show</a><p>Original oddities · Coming soon</p><p>© 2026</p></div></footer>
+      <footer className="launch-footer"><div className="launch-footer__content"><a className="launch-brand" href="#top"><span>RH</span> realhorror.show</a><p>Original oddities · Coming soon</p><p>© 2026</p></div></footer>
     </div>
   )
 }
