@@ -24,7 +24,7 @@ function ComingSoon() {
 
       <main id="top">
         <section className="launch-hero">
-          <img src="/moth-study.png" alt="Graphite moth study" />
+          <img src="/header-moth.png" alt="Close-up graphite moth study" />
           <div className="launch-hero__shade" />
           <div className="launch-hero__copy">
             <p className="launch-eyebrow">A small studio for strange things</p>
